@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/crazyCoder.gif" height="300px" alt="feverishly coding">
+<img src="crazyCoder.gif" height="300px" alt="feverishly coding">
 </div>
 
 <br>
