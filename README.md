@@ -2,7 +2,7 @@
 <div name= "Introduction" align="left">
   
   <!-- GIFF IMAGE -->
-  <img align="right" src="crazyCoder.gif" height="500px" alt="feverishly coding">
+  <img align="right" src="crazyCoder.gif" height="400px" alt="feverishly coding">
   
   <!-- INTRO TEXT -->
   Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" alt="hello">
