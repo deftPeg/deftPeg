@@ -2,7 +2,7 @@
 <div name= "Introduction" align="left">
   
   <!-- GIFF IMAGE -->
-  <img src="crazyCoder.gif" height="500px" alt="feverishly coding" align="right">
+  <img align="right" src="crazyCoder.gif" height="500px" alt="feverishly coding">
   
   <!-- INTRO TEXT -->
   Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" alt="hello">
@@ -18,11 +18,14 @@
 <div name = "About Me"> 
   <p>Welcome to my github. As a full stack web developer and career switcher I am always seeking to be <strong>stimulated by a challenge!</strong> 
 
-  🎯 <strong>My goal: </strong>To connect all the dots, from design to final product in order to create well structured, appealing, effective, easy to use applications that will be a positive experience for any user.
+  🎯 <strong>My goal: </strong>To connect all the dots, from design to final product <br> in order to create well structured, appealing, effective, easy to use applications that will be a positive experience for any user.
 
-  🏆 <strong>My reward: </strong>To learn something new every day. To persist through determination to overcome any obstacle. To be driven by the surprise of my own unfolding.
+  🏆 <strong>My reward: </strong>To learn something new every day. To persist through determination to overcome any obstacle. To be driven <br> by the surprise of my own unfolding.
 
-  🕛 <strong>Currently</strong>, I am working on my portfolio website and hope to have it up and running soon. In the meantime, feel free to connect. </p>
+  🕛 <strong>Currently</strong>, I am working on my portfolio website and hope to have it up and running soon. In the meantime, feel free to connect.
+  
+  😸 <strong> Thank you for visiting! </strong>
+  </p>
 <br>
  </div>
 
@@ -106,6 +109,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 🕛 
 🤝
+😸
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
