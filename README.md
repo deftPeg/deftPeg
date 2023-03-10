@@ -23,7 +23,7 @@
 
   🏆 <strong>My reward: </strong>To learn something new every day. To persist through determination to overcome any obstacle. To be driven by the surprise of my own unfolding.
 
-  🕛 <strong>Currently</strong>, I am working on my portfolio website and hope to have it up and running soon. In the meantime, feel free to connect.
+  🕛 <strong>Currently</strong>, I am learning TypeScript and Sass. In the meantime, feel free to connect.
   
   😸 <strong> Thank you for visiting! </strong>
   </p>
