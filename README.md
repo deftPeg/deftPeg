@@ -4,7 +4,7 @@
   <!-- INTRO TEXT -->
   Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" alt="hello">
   <h3>I'm Peggy, a</hr> <br>
-  <strong>Full Stack Web Developer</strong>  
+  <strong>UI/UX Designer-Developer | Fullstack Web Developer</strong>  
     
   <!-- GIFF IMAGE -->
   <img align="right" src="crazyCoder.gif" height="400px" alt="feverishly coding">
