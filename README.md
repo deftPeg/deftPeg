@@ -19,7 +19,7 @@
 <div name = "About Me"> 
   <p>Welcome to my github. As a UI/UX Designer-Developer and more recently a Fullstack Web Developer who loves working in tech, I am always seeking to be <strong>stimulated by a challenge!</strong> 
 
-  🎯 <strong>My goal: </strong>To connect all the dots, from design to final product in order to create well structured, responsive, appealing, effective, easy to use applications that will be a positive experience for any user.
+  🎯 <strong>My goal: </strong>To connect all the dots, from design to final product in order to create well structured, responsive, effective, appealing, easy to use applications that will be a positive experience for any user.
 
   🏆 <strong>My reward: </strong>To learn something new every day. To persist through determination to overcome any obstacle. To be driven by the surprise of my own unfolding.
 
